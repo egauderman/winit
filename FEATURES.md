@@ -191,7 +191,7 @@ Legend:
 ### Input handling
 |Feature                 |Windows   |MacOS   |Linux x11|Linux Wayland|Android|iOS    |WASM      |
 |----------------------- | -----    | ----   | ------- | ----------- | ----- | ----- | -------- |
-|Mouse events            |✔️       |▢[#63]  |✔️       |✔️          |**N/A**|**N/A**|✔️        |
+|Mouse events            |✔️       |▢[#63], [#1418] |✔️       |✔️          |**N/A**|**N/A**|✔️        |
 |Mouse set location      |✔️       |✔️      |✔️       |❓           |**N/A**|**N/A**|**N/A**|
 |Cursor grab             |✔️       |▢[#165] |▢[#242]  |✔️         |**N/A**|**N/A**|❓        |
 |Cursor icon             |✔️       |✔️      |✔️       |✔️           |**N/A**|**N/A**|✔️        |
@@ -227,6 +227,7 @@ Changes in the API that have been agreed upon but aren't implemented across all 
 [#459]: https://github.com/rust-windowing/winit/issues/459
 [#5]: https://github.com/rust-windowing/winit/issues/5
 [#63]: https://github.com/rust-windowing/winit/issues/63
+[#1418]: https://github.com/rust-windowing/winit/issues/1418
 [#720]: https://github.com/rust-windowing/winit/issues/720
 [#721]: https://github.com/rust-windowing/winit/issues/721
 [#750]: https://github.com/rust-windowing/winit/issues/750
